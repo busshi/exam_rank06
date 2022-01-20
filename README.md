@@ -2,7 +2,7 @@
 
 # MINI_SERV
 ## EXAM RANK_06
-[![aldubar's 42Project Score](https://badge42.herokuapp.com/api/project/aldubar/Exam%20Rank%200§)](https://github.com/JaeSeoKim/badge42)
+[![aldubar's 42Project Score](https://badge42.herokuapp.com/api/project/aldubar/Exam%20Rank%2006)](https://github.com/JaeSeoKim/badge42)
 
 Train yourself to the exam_rank06 and test your own code:
 - mini_serv.c
